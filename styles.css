@@ -1,18 +1,14 @@
 
 /* Your CSS Code here. */
-.hover-button button
+#btn
 {
     background-color: black;
-    padding: 12px 20px;
+    color: white;
     border-radius: 5px;
-    color: #ffff;
 }
-.hover-button button:hover
+#btn:hover
 {
-    transition: 0.5s ease all;
     background-color: yellow;
-    padding: 12px 20px;
-    border-radius: 30px;
     color: black;
-    border-color: yellow;
+    border-radius: 30px;
 }
